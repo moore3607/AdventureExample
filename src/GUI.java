@@ -105,6 +105,17 @@ public class GUI extends javax.swing.JFrame {
         controller.goNorth();
     }//GEN-LAST:event_NorthButtonActionPerformed
 
+     private void SouthButtonActionPerformed(java.awt.event.ActionEvent evt) {                                            
+        controller.goSouth();
+    }
+     
+     private void NorthButtonActionPerformed(java.awt.event.ActionEvent evt) {                                            
+        controller.goNorth();
+    }
+      
+     private void NorthButtonActionPerformed(java.awt.event.ActionEvent evt) {                                            
+        controller.goNorth();
+    }
     /**
      * @param args the command line arguments
      */
